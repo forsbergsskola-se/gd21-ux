@@ -18,9 +18,9 @@ public class AnalogueStickDeadZones : MonoBehaviour
         var angularDeadZoneProcessedInput = AngularDeadZoneProcessing(radialDeadZoneProcessedInput);
 
         //Apply input to visualization objects.
-        unprocessedVisualizer.transform.localPosition = unprocessedAnalogueStickInput;
-        radialDeadZoneVisualizer.transform.localPosition = radialDeadZoneProcessedInput;
-        angularDeadZoneVisualizer.transform.localPosition = angularDeadZoneProcessedInput;
+        unprocessedVisualizer.localPosition = unprocessedAnalogueStickInput;
+        radialDeadZoneVisualizer.localPosition = radialDeadZoneProcessedInput;
+        angularDeadZoneVisualizer.localPosition = angularDeadZoneProcessedInput;
     }
 
     private Vector2 RadialDeadZoneProcessing(Vector2 data)
