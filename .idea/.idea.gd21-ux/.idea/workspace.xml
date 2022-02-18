@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="708d0066-22ac-4895-a478-a3187c992480" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.gd21-ux/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.gd21-ux/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AnalogueInputDeadZonesExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AnalogueInputDeadZonesExamples.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ScreenAnd ButtonPlacementExamples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ScreenAnd ButtonPlacementExamples.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AnalogueStickDeadZones.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AnalogueStickDeadZones.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +18,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/Assets/Scenes/AnalogueInputDeadZonesExamples.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnalogueStickDeadZones.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/Assets/Scenes/ScreenAnd ButtonPlacementExamples.unity" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/ProjectSettings/InputManager.asset" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/Assets/Scripts/AnalogueStickDeadZones.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="25CORxLmQ3qnQzE0AT3Nel0ARhj" />
   <component name="ProjectViewState">
@@ -70,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1645027597410</updated>
       <workItem from="1645027605913" duration="945000" />
-      <workItem from="1645090679386" duration="327000" />
+      <workItem from="1645090679386" duration="1247000" />
     </task>
     <servers />
   </component>
