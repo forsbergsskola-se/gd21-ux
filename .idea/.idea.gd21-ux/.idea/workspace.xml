@@ -18,11 +18,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/Assets/Scenes/AnalogueInputDeadZonesExamples.unity" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnalogueStickDeadZones.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/Assets/Scenes/ScreenAnd ButtonPlacementExamples.unity" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/ProjectSettings/InputManager.asset" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://E:/GitRepos/Forsbergs/GD21/gd21-ux/Assets/Scripts/AnalogueStickDeadZones.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FieldOfViewSlider.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="25CORxLmQ3qnQzE0AT3Nel0ARhj" />
   <component name="ProjectViewState">
@@ -32,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -71,13 +69,26 @@
       <updated>1645027597410</updated>
       <workItem from="1645027605913" duration="945000" />
       <workItem from="1645090679386" duration="1247000" />
+      <workItem from="1645515698108" duration="3186000" />
     </task>
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
